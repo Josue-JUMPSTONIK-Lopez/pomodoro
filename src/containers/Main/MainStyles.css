@@ -1,0 +1,22 @@
+main{
+    /* background-color: var(--secondary); */
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items:center;
+    justify-content: space-around;
+    height: 88vh;
+    width: 100vw;
+  }
+
+.Pomodoro{
+  background-color: var(--complementary3);
+}
+
+.Short-break{
+  background-color: var(--complementary2);
+}
+
+.Long-break{
+  background-color: var(--complementary1);
+}

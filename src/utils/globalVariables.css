@@ -1,0 +1,10 @@
+/* Color Theme Swatches in RGBA */
+:root{
+    --primary: rgba(216, 17, 90, 1);
+    --secondary: rgba(59, 61, 89, 1); 
+    --complementary1: rgba(27, 100, 245, 0.96);
+    --complementary2: rgba(0, 168, 13,0.66);
+    --complementary3: rgba(242, 160, 60,1);
+}
+
+

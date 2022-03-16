@@ -1,0 +1,9 @@
+.Logo{
+    display: flex;
+    align-items: center;
+}
+
+span{
+    font-size: 50px;
+    margin-right: 10px;
+}

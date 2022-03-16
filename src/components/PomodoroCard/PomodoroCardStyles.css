@@ -1,0 +1,35 @@
+.PomodoroCard{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px 10px 0;
+    background: rgba(255, 255, 255, 0.9);
+  }
+  
+  .TopCardInfo{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .ContentCardInfo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 20px;
+  }
+
+  .ContentCardInfo p:first-child{
+    padding-right: 15px;
+  }
+
+  .topParaph{
+    font-size: 2rem;
+  }
+
+  .task{
+    font-size: 2rem;
+  }
+
+  .time{
+    font-size: 1.5rem;
+  }
