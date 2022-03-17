@@ -1,6 +1,5 @@
 
 import React, { useState, useEffect, useRef } from 'react';
-import { PomodoroCard } from '../components/PomodoroCard/PomodoroCard';
 // import "./soundEffect.mp3"
 export interface PomodoroCard{
     id: number;
