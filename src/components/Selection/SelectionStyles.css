@@ -7,7 +7,6 @@
     justify-content: space-around;
     align-items: center;
     border-radius: 10px;
-    /* border: 1px solid black; */
     background: rgba(255, 255, 255, 0.3);
-    /* background-color: var(--complementary2); */
+    padding: 15px;
   }

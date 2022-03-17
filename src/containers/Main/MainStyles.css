@@ -5,7 +5,7 @@ main{
     flex-direction:column;
     align-items:center;
     justify-content: space-around;
-    height: 88vh;
+    height: 100%;
     width: 100vw;
   }
 
